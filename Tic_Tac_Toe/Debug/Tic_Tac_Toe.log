@@ -1,0 +1,11 @@
+﻿  Main.cpp
+H:\Artfx\C++\Tic_Tac_Toe\Tic_Tac_Toe\Main.cpp(34,3): error C2181: instruction else sans if correspondant non conforme
+H:\Artfx\C++\Tic_Tac_Toe\Tic_Tac_Toe\Main.cpp(37,3): error C2181: instruction else sans if correspondant non conforme
+H:\Artfx\C++\Tic_Tac_Toe\Tic_Tac_Toe\Main.cpp(40,3): error C2181: instruction else sans if correspondant non conforme
+H:\Artfx\C++\Tic_Tac_Toe\Tic_Tac_Toe\Main.cpp(40,27): error C2065: 'valeur' : identificateur non déclaré
+H:\Artfx\C++\Tic_Tac_Toe\Tic_Tac_Toe\Main.cpp(43,3): error C2181: instruction else sans if correspondant non conforme
+H:\Artfx\C++\Tic_Tac_Toe\Tic_Tac_Toe\Main.cpp(43,27): error C2065: 'valeur' : identificateur non déclaré
+H:\Artfx\C++\Tic_Tac_Toe\Tic_Tac_Toe\Main.cpp(46,3): error C2181: instruction else sans if correspondant non conforme
+H:\Artfx\C++\Tic_Tac_Toe\Tic_Tac_Toe\Main.cpp(49,3): error C2181: instruction else sans if correspondant non conforme
+H:\Artfx\C++\Tic_Tac_Toe\Tic_Tac_Toe\Main.cpp(51,2): error C2059: erreur de syntaxe : '}'
+H:\Artfx\C++\Tic_Tac_Toe\Tic_Tac_Toe\Main.cpp(52,1): error C2059: erreur de syntaxe : '}'
